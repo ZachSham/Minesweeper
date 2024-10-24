@@ -7,7 +7,7 @@
 #include <fstream>
 #include <sstream>
 #include "windows.h"
-#include "board .h"
+#include "board.h"
 #include "MovingCursor.h"
 
 using namespace std;
